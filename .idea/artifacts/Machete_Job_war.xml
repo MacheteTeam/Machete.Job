@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Machete.Job:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="machetejob.war">
+      <element id="artifact" artifact-name="Machete.Job:war exploded" />
+    </root>
+  </artifact>
+</component>
